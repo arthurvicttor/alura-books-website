@@ -4,9 +4,8 @@ Alura Books é um projeto front-end responsivo criado durante um curso na Alura.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Books**
-| :label: Tecnologias | html5, css3 (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :label: Tecnologias | HTML5, CSS3
+| :rocket: URL         | https://arthurvicttor.github.io/alura-books-website/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
