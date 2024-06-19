@@ -1,5 +1,5 @@
 # Website da Alura Books
-Alura Books é um projeto front-end responsivo criado durante um curso na Alura. O site se adapta a diversos dispositivos, oferecendo uma navegação fluida e uma experiência de usuário consistente, utilizando tecnologias como HTMLe  CSS3.
+Alura Books é um projeto front-end responsivo criado durante um curso na Alura. O site se adapta a diversos dispositivos 📱💻, oferecendo uma navegação fluida e uma experiência de usuário consistente, utilizando tecnologias como HTML5 e CSS3💡.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
