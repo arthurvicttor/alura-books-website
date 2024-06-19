@@ -15,7 +15,7 @@ Alura Books é um projeto front-end responsivo criado durante um curso na Alura.
 Fiz esse projeto durante uma jornada muito intesa, antes do curso, meu principal desafio era a Responsividade Mobile, mas com a formação, aprendi que é melhor começar um projeto front-end Mobile First, pois fica mais fácil desenvolver as outras telas. A seguir, estão as imagens responsivas do projeto: 📸📱💻
 
 📱 Mobile:
-![](./assets/img/readme/arthurvicttor.github.io_alura-books-website_(Iphone 12 Pro) (1).png#vitrinedev)
+![](./assets/img/readme/arthurvicttor.github.io_alura-books-website_(iPhone 12 Pro) (1).png#vitrinedev)
 
 📱📲 Tablet:
 ![](./assets/img/readme/arthurvicttor.github.io_alura-books-website_(Ipad Pro).png#vitrinedev)
